@@ -1,0 +1,37 @@
+{
+  "chart": {
+    "title": "Total healthcare expenditure as a share of GDP",
+    "subtitle": "Total healthcare expenditure as the share of national gross domestic product (GDP).",
+    "citation": "World Health Organization - Global Health Observatory (2024)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/total-healthcare-expenditure-gdp?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "China",
+      "India",
+      "Brazil",
+      "United States",
+      "United Kingdom",
+      "France",
+      "Japan",
+      "Nigeria"
+    ]
+  },
+  "columns": {
+    "Current health expenditure (CHE) as percentage of gross domestic product (GDP) (%)": {
+      "titleShort": "Current health expenditure (CHE) as percentage of gross domestic product (GDP) (%)",
+      "titleLong": "Current health expenditure (CHE) as percentage of gross domestic product (GDP) (%)",
+      "descriptionShort": "Level of Current Health Expenditure expressed as a percentage of GDP",
+      "descriptionKey": [],
+      "unit": "%",
+      "timespan": "2000-2021",
+      "type": "Numeric",
+      "owidVariableId": 825000,
+      "shortName": "current_health_expenditure__che__as_percentage_of_gross_domestic_product__gdp__pct",
+      "lastUpdated": "2024-01-03",
+      "nextUpdate": "2025-01-02",
+      "citationShort": "World Health Organization - Global Health Observatory (2024) – processed by Our World in Data",
+      "citationLong": "World Health Organization - Global Health Observatory (2024) – processed by Our World in Data. “Current health expenditure (CHE) as percentage of gross domestic product (GDP) (%)” [dataset]. World Health Organization, “Global Health Observatory” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/825000.metadata.json"
+    }
+  },
+  "dateDownloaded": "2024-12-12"
+}

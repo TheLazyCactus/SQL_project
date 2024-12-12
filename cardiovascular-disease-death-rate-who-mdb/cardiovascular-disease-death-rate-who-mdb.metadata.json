@@ -1,0 +1,42 @@
+{
+  "chart": {
+    "title": "Death rate from cardiovascular diseases",
+    "subtitle": "Reported annual death rate from [cardiovascular diseases](#dod:cvd) per 100,000 people, based on the [underlying cause](#dod:underlying-cause-of-death) listed on death certificates.",
+    "note": "To allow for comparisons between countries and over time, this metric is [age-standardized](#dod:age_standardized). All deaths in a country may not have been registered with a [cause of death](#dod:underlying-cause-of-death).",
+    "citation": "WHO Mortality Database (2024)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/cardiovascular-disease-death-rate-who-mdb?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "Canada",
+      "United States",
+      "Russia",
+      "South Africa",
+      "Hungary",
+      "Thailand",
+      "Brazil",
+      "Australia",
+      "Germany",
+      "France"
+    ]
+  },
+  "columns": {
+    "Age-standardized deaths from cardiovascular diseases in both sexes per 100,000 people": {
+      "titleShort": "Age-standardized deaths that are from cardiovascular diseases per 100,000 people, in both sexes aged all ages",
+      "titleLong": "Age-standardized deaths that are from cardiovascular diseases per 100,000 people, in both sexes aged all ages",
+      "descriptionShort": "Reported deaths from cardiovascular diseases in both sexes per 100,000 people.",
+      "descriptionKey": [
+        "The International Classification of Diseases (Version 10) codes that define cardiovascular diseases are I00-I99."
+      ],
+      "unit": "deaths per 100,000 people",
+      "timespan": "1950-2022",
+      "type": "Numeric",
+      "owidVariableId": 955881,
+      "shortName": "age_standardized_death_rate_per_100_000_standard_population__sex_both_sexes__age_group_all_ages__cause_cardiovascular_diseases__icd10_codes_i00_i99",
+      "lastUpdated": "2024-07-26",
+      "nextUpdate": "2025-07-26",
+      "citationShort": "WHO Mortality Database (2024) – with minor processing by Our World in Data",
+      "citationLong": "WHO Mortality Database (2024) – with minor processing by Our World in Data. “Age-standardized deaths that are from cardiovascular diseases per 100,000 people, in both sexes aged all ages” [dataset]. WHO Mortality Database, “WHO Mortality Database” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/955881.metadata.json"
+    }
+  },
+  "dateDownloaded": "2024-12-07"
+}

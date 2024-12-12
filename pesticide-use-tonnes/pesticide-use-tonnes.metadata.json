@@ -1,0 +1,37 @@
+{
+  "chart": {
+    "title": "Pesticide use",
+    "subtitle": "Total pesticide use measured in tonnes of pesticide consumption per year.",
+    "citation": "Food and Agriculture Organization of the United Nations (2024)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/pesticide-use-tonnes?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "United States",
+      "Brazil",
+      "China",
+      "South Africa",
+      "India",
+      "Argentina",
+      "Mexico",
+      "Canada"
+    ]
+  },
+  "columns": {
+    "Pesticides (total) | 00001357 || Agricultural Use | 005157 || Tonnes": {
+      "titleShort": "Total pesticide use",
+      "titleLong": "Total pesticide use - FAO",
+      "descriptionKey": [],
+      "shortUnit": "t",
+      "unit": "tonnes",
+      "timespan": "1990-2021",
+      "type": "Numeric",
+      "owidVariableId": 832404,
+      "shortName": "pesticides__total__00001357__agricultural_use__005157__tonnes",
+      "lastUpdated": "2024-03-14",
+      "nextUpdate": "2025-03-14",
+      "citationShort": "Food and Agriculture Organization of the United Nations (2024) – with major processing by Our World in Data",
+      "citationLong": "Food and Agriculture Organization of the United Nations (2024) – with major processing by Our World in Data. “Total pesticide use – FAO” [dataset]. Food and Agriculture Organization of the United Nations, “Land, Inputs and Sustainability: Pesticides Use” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/832404.metadata.json"
+    }
+  },
+  "dateDownloaded": "2024-12-12"
+}

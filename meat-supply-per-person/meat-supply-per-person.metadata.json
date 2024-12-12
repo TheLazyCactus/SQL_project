@@ -1,0 +1,33 @@
+{
+  "chart": {
+    "title": "Meat supply per person",
+    "subtitle": "Average total meat supply per person measured in kilograms per year.",
+    "note": "Data excludes fish and other seafood sources. Figures do not correct for waste at the household/consumption level so may not directly reflect the quantity of food finally consumed by a given individual. ",
+    "citation": "Food and Agriculture Organization of the United Nations (2023)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/meat-supply-per-person?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "China",
+      "Turkmenistan",
+      "Gambia"
+    ]
+  },
+  "columns": {
+    "Meat, total | 00002943 || Food available for consumption | 0645pc || kilograms per year per capita": {
+      "titleShort": "Per capita consumption of meat",
+      "titleLong": "Per capita consumption of meat - FAO",
+      "descriptionKey": [],
+      "shortUnit": "kg",
+      "unit": "kilograms per year per capita",
+      "timespan": "1961-2021",
+      "type": "Numeric",
+      "owidVariableId": 850181,
+      "shortName": "meat__total__00002943__food_available_for_consumption__0645pc__kilograms_per_year_per_capita",
+      "lastUpdated": "2024-03-14",
+      "nextUpdate": "2025-03-14",
+      "citationShort": "Food and Agriculture Organization of the United Nations (2023) – with major processing by Our World in Data",
+      "citationLong": "Food and Agriculture Organization of the United Nations (2023) – with major processing by Our World in Data. “Per capita consumption of meat – FAO” [dataset]. Food and Agriculture Organization of the United Nations, “Food Balances: Food Balances (-2013, old methodology and population)”; Food and Agriculture Organization of the United Nations, “Food Balances: Food Balances (2010-)” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/850181.metadata.json"
+    }
+  },
+  "dateDownloaded": "2024-12-07"
+}

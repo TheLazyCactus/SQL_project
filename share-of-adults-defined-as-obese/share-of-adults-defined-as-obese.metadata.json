@@ -1,0 +1,35 @@
+{
+  "chart": {
+    "title": "Obesity in adults",
+    "subtitle": "Estimated prevalence of [obesity](#dod:obesity), based on general population surveys and statistical modeling. Obesity is a [risk factor](#dod:risk-factor) for chronic complications, including cardiovascular disease, and premature death.",
+    "citation": "World Health Organization - Global Health Observatory (2024)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/share-of-adults-defined-as-obese?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "United States",
+      "United Kingdom",
+      "Brazil",
+      "India",
+      "Australia",
+      "Nigeria"
+    ]
+  },
+  "columns": {
+    "Prevalence of obesity among adults, BMI >= 30 (crude estimate) (%) - Sex: both sexes - Age group: 18+  years": {
+      "titleShort": "Prevalence of obesity among adults, BMI >= 30 (crude estimate) (%) - Sex: both sexes - Age group: 18+  years",
+      "titleLong": "Prevalence of obesity among adults, BMI >= 30 (crude estimate) (%) - Sex: both sexes - Age group: 18+  years",
+      "descriptionShort": "Percentage of adults aged 18+ years with a body mass index (BMI) of 30 kg/m2 or higher.",
+      "descriptionKey": [],
+      "unit": "%",
+      "timespan": "1975-2016",
+      "type": "Numeric",
+      "owidVariableId": 829690,
+      "shortName": "prevalence_of_obesity_among_adults__bmi__gt__30__crude_estimate__pct__sex_both_sexes__age_group_18plus__years",
+      "lastUpdated": "2024-01-03",
+      "nextUpdate": "2025-01-02",
+      "citationShort": "World Health Organization - Global Health Observatory (2024) – processed by Our World in Data",
+      "citationLong": "World Health Organization - Global Health Observatory (2024) – processed by Our World in Data. “Prevalence of obesity among adults, BMI >= 30 (crude estimate) (%) - Sex: both sexes - Age group: 18+  years” [dataset]. World Health Organization, “Global Health Observatory” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/829690.metadata.json"
+    }
+  },
+  "dateDownloaded": "2024-12-12"
+}
